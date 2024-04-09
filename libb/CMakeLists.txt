@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.21)
+
+set(LIBB_SOURCES 
+    ${CMAKE_CURRENT_LIST_DIR}/libb.cpp)
+
+set(LIBB_HEADERS
+    ${CMAKE_CURRENT_LIST_DIR}/libb.h)
+
+message(WARNING "Libb CMAKE_CURRENT_LIST_DIR is  ${CMAKE_CURRENT_LIST_DIR}")
+message(WARNING "Libb CMAKE_CURRENT_SOURCE_DIR is ${CMAKE_CURRENT_SOURCE_DIR}")
+
+add_library(libb ${LIBB_SOURCES} ${LIBB_HEADERS})

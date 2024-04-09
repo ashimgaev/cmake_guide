@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.21)
+
+set(LIBA_SOURCES 
+    ${CMAKE_CURRENT_LIST_DIR}/liba.cpp)
+
+set(LIBA_HEADERS
+    ${CMAKE_CURRENT_LIST_DIR}/liba.h)
+
+message(WARNING "Liba CMAKE_CURRENT_LIST_DIR is  ${CMAKE_CURRENT_LIST_DIR}")
+message(WARNING "Liba CMAKE_CURRENT_SOURCE_DIR is ${CMAKE_CURRENT_SOURCE_DIR}")
+
+add_library(liba ${LIBA_SOURCES} ${LIBA_HEADERS})

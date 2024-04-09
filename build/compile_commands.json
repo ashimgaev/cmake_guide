@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/user/git/cmake_guide/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/liba.dir/liba/liba.cpp.o -c /home/user/git/cmake_guide/liba/liba.cpp",
+  "file": "/home/user/git/cmake_guide/liba/liba.cpp"
+},
+{
+  "directory": "/home/user/git/cmake_guide/build",
+  "command": "/usr/bin/clang++  -I/home/user/git/cmake_guide/liba -I/home/user/git/cmake_guide/libb -I/home/user/git/cmake_guide/dir_1 -g -std=gnu++17 -o CMakeFiles/testapp.dir/main.cpp.o -c /home/user/git/cmake_guide/main.cpp",
+  "file": "/home/user/git/cmake_guide/main.cpp"
+},
+{
+  "directory": "/home/user/git/cmake_guide/build",
+  "command": "/usr/bin/clang++  -I/home/user/git/cmake_guide/liba -I/home/user/git/cmake_guide/libb -I/home/user/git/cmake_guide/dir_1 -g -std=gnu++17 -o CMakeFiles/testapp.dir/dir_1/helpers.cpp.o -c /home/user/git/cmake_guide/dir_1/helpers.cpp",
+  "file": "/home/user/git/cmake_guide/dir_1/helpers.cpp"
+},
+{
+  "directory": "/home/user/git/cmake_guide/build/libb",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/libb.dir/libb.cpp.o -c /home/user/git/cmake_guide/libb/libb.cpp",
+  "file": "/home/user/git/cmake_guide/libb/libb.cpp"
+}
+]
