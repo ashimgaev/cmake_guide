@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g CMakeFiles/testapp.dir/main.cpp.o CMakeFiles/testapp.dir/dir_1/helpers.cpp.o -o testapp  libliba.a libb/liblibb.a 

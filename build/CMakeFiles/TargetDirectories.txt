@@ -1,7 +1,0 @@
-/home/user/git/cmake_guide/build/CMakeFiles/testapp.dir
-/home/user/git/cmake_guide/build/CMakeFiles/liba.dir
-/home/user/git/cmake_guide/build/CMakeFiles/edit_cache.dir
-/home/user/git/cmake_guide/build/CMakeFiles/rebuild_cache.dir
-/home/user/git/cmake_guide/build/libb/CMakeFiles/libb.dir
-/home/user/git/cmake_guide/build/libb/CMakeFiles/edit_cache.dir
-/home/user/git/cmake_guide/build/libb/CMakeFiles/rebuild_cache.dir
